@@ -10,7 +10,7 @@ group :development do
   gem 'metadata-json-lint', '~> 1.1.0'
   gem 'puppet', puppetversion
   gem 'puppet-lint', '~> 2.1.1'
-  gem 'guard-rspec', '~> 4.2.9', :require => false
+  gem 'guard-rspec', '~> 4.3.0', :require => false
 end
 
 group :test do
